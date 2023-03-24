@@ -5,7 +5,7 @@ Data Gardeners is focused on building competencies in designing, building, and d
 
 Data team building, coaching, and guidance
 Data system architectural review, requirements capturing, and scaling
-Code-level technical challenges related to ETL, data systems, and product performance
+- Code-level technical challenges related to ETL, data systems, and product performance
 
 Whether you are looking to build a new data system from scratch or optimize your existing systems, our expertise and experience are there to help you achieve your goals. We have lived and worked with a wide range of types and scales of data. We are comfortable working with everything from CSV files and spreadsheets to billions of rows of cloud based column stores. We have supported business operations from scrappy product development to supporting billion dollar public company shareholder calls. And we’ve integrated it all.  What we’ve learned is that while requirements change, there are common elements shared as companies grow and evolve. Sadly, one of these elements is the difficulty faced with trying to leverage data effectively. All too often, data becomes unruly and a burden instead of providing insight and support. Data Gardeners' focus is to help companies tame and prune the wild data landscape into one that provides the insight required.
 
