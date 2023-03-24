@@ -3,7 +3,7 @@ Collect, Cultivate, Grow
 
 Data Gardeners is focused on building competencies in designing, building, and deploying data products and platforms. We focus on three broad areas:
 
-Data team building, coaching, and guidance
+- Data team building, coaching, and guidance
 - Data system architectural review, requirements capturing, and scaling
 - Code-level technical challenges related to ETL, data systems, and product performance
 
